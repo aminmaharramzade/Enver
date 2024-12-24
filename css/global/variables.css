@@ -1,0 +1,7 @@
+:root {
+    --bgMain : linear-gradient(#3B3A4B , #19191B);
+    --whiteColor : #FFFFFF;
+    --purpleColor : #5454D4;
+    --Montserrat : "Montserrat", serif;
+    --Nunito : "Nunito Sans", serif;
+}
